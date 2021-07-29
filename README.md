@@ -1,9 +1,14 @@
 # MUSKETREES_GUI_S1SE03B
 # UASGUI_APLIKASI TEAM GENERATOR
-
+#
+# anggota kelompok:
+# 1. Gilang aditia
+# 2. Abdurahman ibnul rasidi
+# 3. Rahmanda trinova putra
+#
 ## Tampilan utama aplikasi team random generator
 ![tampilan utama aplikasi](https://i.ibb.co/wQpmxrS/tampilanawal.jpg)
-## masukan pada kolom nama lalu klik tombol tambah untuk mwnambhkan dan tombol refres untuk merefresh lish nama
+## masukan pada kolom nama lalu klik tombol tambah untuk menambhkan dan tombol refres untuk merefresh lish nama
 ![tambah](https://i.ibb.co/qjPz4kc/masukan-nama-dan-refresh.jpg)
 ## setelah memasukan nama maka nama yang telah diinputkan akan muncul pada table list nama
 ![list nama](https://i.ibb.co/ZfyJct9/hasil-set-nama.jpg)
