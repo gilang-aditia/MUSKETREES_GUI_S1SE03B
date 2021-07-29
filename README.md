@@ -3,15 +3,13 @@
 
 ## Tampilan utama aplikasi team random generator
 ![tampilan utama aplikasi](https://i.ibb.co/wQpmxrS/tampilanawal.jpg)
-## EDIT NAMA ,JURUSAN, NO TELP
-![di data yang kedua di edit](https://i.ibb.co/wQ0c8Tf/edit-namajurusanno.jpg)
-## CLEAR DATA SEBELUM
-![sebelum di clear](https://i.ibb.co/1r2xKF8/clear-gilang-aditia.jpg)
-## HASIL CLEAR
-![hasil](https://i.ibb.co/HGMzYKw/hasil-clear.jpg)
-## HAPUS SEBELUM
-![hapus](https://i.ibb.co/VmL2nLH/sebelom-hapus.jpg)
-## HASIL HAPUS
-![setelah](https://i.ibb.co/ypjg3PF/setelah-hapus.jpg)
-## SOAL NOMOR 2
-![no2](https://i.ibb.co/RpGdscG/no2g.png)
+## masukan pada kolom nama lalu klik tombol tambah untuk mwnambhkan dan tombol refres untuk merefresh lish nama
+![tambah](https://i.ibb.co/qjPz4kc/masukan-nama-dan-refresh.jpg)
+## setelah memasukan nama maka nama yang telah diinputkan akan muncul pada table list nama
+![list nama](https://i.ibb.co/ZfyJct9/hasil-set-nama.jpg)
+## menu berikutnya hapus tombol hapus di gunakan ketika ada nama seseorang yang ingin dihapus atau hapus semua untuk membuat inputan baru
+![hapus](https://i.ibb.co/0J40KxM/hapus.jpg)
+## setelah menginputkan nama selanjutnya membuat kelompok tinggal masukan mau menjadi berapa kelompok pada kolom yang tersedia selanjutnya klik buat
+![hapus](https://i.ibb.co/yQTcPTr/buat-grup.jpg)
+## setelah itu maka akan muncul hasil kelompk yang sudah di bagi
+![setelah](https://i.ibb.co/SrLRXYP/hasilkelompok.jpg)
