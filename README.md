@@ -5,7 +5,7 @@
 # 1. Gilang aditia
 # 2. Abdurahman ibnul rasidi
 # 3. Rahmanda trinova putra
-#
+# assalamualaikum
 ## Tampilan utama aplikasi team random generator
 ![tampilan utama aplikasi](https://i.ibb.co/wQpmxrS/tampilanawal.jpg)
 ## masukan pada kolom nama lalu klik tombol tambah untuk menambhkan dan tombol refres untuk merefresh lish nama
