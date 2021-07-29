@@ -1,7 +1,7 @@
 # MUSKETREES_GUI_S1SE03B
 # UASGUI_APLIKASI TEAM GENERATOR
 Tampilan utama aplikasi team random generator
-(https://i.ibb.co/wQpmxrS/tampilanawal.jpg)
+![tampilan utama aplikasi](https://i.ibb.co/wQpmxrS/tampilanawal.jpg)
 ## EDIT NAMA ,JURUSAN, NO TELP
 ![di data yang kedua di edit](https://i.ibb.co/wQ0c8Tf/edit-namajurusanno.jpg)
 ## CLEAR DATA SEBELUM
