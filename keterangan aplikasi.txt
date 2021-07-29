@@ -1,0 +1,1 @@
+di dalam folder terdapat main.py dan juga databse mysql yang sudah terhubung ke dalam kodingan 
