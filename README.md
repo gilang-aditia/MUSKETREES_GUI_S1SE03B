@@ -2,9 +2,9 @@
 # UASGUI_APLIKASI TEAM GENERATOR
 #
 # anggota kelompok:
-# 1. Gilang aditia
-# 2. Abdurahman ibnul rasidi
-# 3. Rahmanda trinova putra
+# 1. Gilang aditia (19104043)
+# 2. Abdurahman Ibnul Rasidi (19104032)
+# 3. Rahmanda Trinova Putra (19104051)
 #
 ## Tampilan utama aplikasi team random generator
 ![tampilan utama aplikasi](https://i.ibb.co/TMmbbM2/awal.jpg)
